@@ -1,2 +1,2 @@
 # Arduino-Timer-Functions
-Hour, minute, and second timer function for Arduino. 
+Hour, minute, and second timer functions for Arduino. 
